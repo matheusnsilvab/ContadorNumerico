@@ -15,7 +15,7 @@
 ## 💻 Tela do projeto
 <div align="center">
 <img src="https://github.com/matheusnsilvab/ContadorNumerico/assets/131299485/c6e8f219-ac4f-4dac-8f30-4403c0fd94b1" width="600px"/>
-<img src="https://github.com/matheusnsilvab/ContadorNumerico/assets/131299485/25cb0ecd-7eaa-4754-bae4-3edc78769d58" width="250px"/>
+<img src="https://github.com/matheusnsilvab/ContadorNumerico/assets/131299485/25cb0ecd-7eaa-4754-bae4-3edc78769d58" width="210px"/>
 </div>
 
 ##
